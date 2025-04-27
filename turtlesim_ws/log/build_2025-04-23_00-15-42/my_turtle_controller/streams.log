@@ -1,0 +1,24 @@
+[1.950s] Invoking command in '/home/juandtovar/ros2_ws/src/my_turtle_controller': PYTHONPATH=/home/juandtovar/ros2_ws/build/my_turtle_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juandtovar/ros2_ws/install/my_turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_turtle_controller build --build-base /home/juandtovar/ros2_ws/build/my_turtle_controller/build install --record /home/juandtovar/ros2_ws/build/my_turtle_controller/install.log --single-version-externally-managed install_data
+[2.692s] running egg_info
+[2.693s] writing ../../build/my_turtle_controller/my_turtle_controller.egg-info/PKG-INFO
+[2.697s] writing dependency_links to ../../build/my_turtle_controller/my_turtle_controller.egg-info/dependency_links.txt
+[2.700s] writing entry points to ../../build/my_turtle_controller/my_turtle_controller.egg-info/entry_points.txt
+[2.700s] writing requirements to ../../build/my_turtle_controller/my_turtle_controller.egg-info/requires.txt
+[2.702s] writing top-level names to ../../build/my_turtle_controller/my_turtle_controller.egg-info/top_level.txt
+[2.711s] reading manifest file '../../build/my_turtle_controller/my_turtle_controller.egg-info/SOURCES.txt'
+[2.718s] writing manifest file '../../build/my_turtle_controller/my_turtle_controller.egg-info/SOURCES.txt'
+[2.724s] running build
+[2.724s] running build_py
+[2.725s] copying my_turtle_controller/move_turtle.py -> /home/juandtovar/ros2_ws/build/my_turtle_controller/build/lib/my_turtle_controller
+[2.728s] running install
+[2.728s] running install_lib
+[2.729s] copying /home/juandtovar/ros2_ws/build/my_turtle_controller/build/lib/my_turtle_controller/move_turtle.py -> /home/juandtovar/ros2_ws/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller
+[2.737s] byte-compiling /home/juandtovar/ros2_ws/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller/move_turtle.py to move_turtle.cpython-310.pyc
+[2.747s] running install_data
+[2.749s] running install_egg_info
+[2.762s] removing '/home/juandtovar/ros2_ws/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[2.771s] Copying ../../build/my_turtle_controller/my_turtle_controller.egg-info to /home/juandtovar/ros2_ws/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller-0.0.0-py3.10.egg-info
+[2.778s] running install_scripts
+[2.858s] Installing move_turtle script to /home/juandtovar/ros2_ws/install/my_turtle_controller/lib/my_turtle_controller
+[2.862s] writing list of installed files to '/home/juandtovar/ros2_ws/build/my_turtle_controller/install.log'
+[2.976s] Invoked command in '/home/juandtovar/ros2_ws/src/my_turtle_controller' returned '0': PYTHONPATH=/home/juandtovar/ros2_ws/build/my_turtle_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juandtovar/ros2_ws/install/my_turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_turtle_controller build --build-base /home/juandtovar/ros2_ws/build/my_turtle_controller/build install --record /home/juandtovar/ros2_ws/build/my_turtle_controller/install.log --single-version-externally-managed install_data

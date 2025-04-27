@@ -1,0 +1,5 @@
+  File "/home/juandtovar/ros2_ws/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller/move_turtle.py", line 33
+    case 'j'
+            ^
+SyntaxError: expected ':'
+

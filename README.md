@@ -225,3 +225,9 @@ flowchart TD
     D --> X[Actualizar pose de la tortuga]
     X --> E
 ```
+
+### Video implementación
+
+En el siguiente enlace vemos el video de implementacion del codigo fuente:
+
+[Video de aplicación](https://youtu.be/K_MUCNcsNCE)

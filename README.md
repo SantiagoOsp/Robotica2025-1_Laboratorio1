@@ -180,7 +180,8 @@ Por ultimo, se mueve la tortuga hacia abajo en linea recta hasta completar una l
 
 Se presenta el diagrama de flujo propuesto para la implementación del codigo:
 
-```flow
+```mermaid
+flowchart TD
     A[Inicio] --> B[Inicializar nodo TurtleController]
     B --> C[Crear publisher en /turtle1/cmd_vel]
     B --> D[Crear subscriber en /turtle1/pose]
